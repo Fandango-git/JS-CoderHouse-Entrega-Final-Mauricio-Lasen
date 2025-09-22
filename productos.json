@@ -1,6 +1,6 @@
 [
     {"id": 1, "nombre": "Notebook Lenovo", "precio": 450000},
-    {"id": 2, "nombre": "Smartphone Samsung", "precio": 800},
-    {"id": 3, "nombre": "Auriculares Bluetooth", "precio": 150},
-    {"id": 4, "nombre": "Monitor 24''", "precio": 300}
+    {"id": 2, "nombre": "Smartphone Samsung", "precio": 150000},
+    {"id": 3, "nombre": "Auriculares Bluetooth", "precio": 15000},
+    {"id": 4, "nombre": "Monitor 24''", "precio": 120000}
 ]
