@@ -1,5 +1,5 @@
 [
-    {"id": 1, "nombre": "Notebook Lenovo", "precio": 1200},
+    {"id": 1, "nombre": "Notebook Lenovo", "precio": 450,000},
     {"id": 2, "nombre": "Smartphone Samsung", "precio": 800},
     {"id": 3, "nombre": "Auriculares Bluetooth", "precio": 150},
     {"id": 4, "nombre": "Monitor 24''", "precio": 300}
